@@ -73,7 +73,7 @@ int main()
 		{
 			{
 				//Регистрация;
-				//int sum = registry_chat(a, b);
+				registry_chat();
 				cout << "registry_chat" << endl;
 				cout << " " << endl;
 				break;
@@ -82,7 +82,7 @@ int main()
 		case 2:
 		{
 			//Вход в chat
-			//int sum = enter_chat(a, b);
+			enter_chat();
 			cout << "enter_chat" << endl;
 			cout << " " << endl;
 			break;

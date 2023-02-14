@@ -41,34 +41,34 @@ void chat_menu()
 			}
 
 		case 2:
-		{
-			//All messages 2, все сообщения
-			// chat_read_all
-			cout << "All messages 2, все сообщения" << endl;
-			break;
-		}
+			{
+				//All messages 2, все сообщения
+				// chat_read_all
+				cout << "All messages 2, все сообщения" << endl;
+				break;
+			}
 		case 3:
-		{
-			//Send to one  3, написать одному
-			// chat_one
-			cout << "Send to one  3, написать одному" << endl;
-			//getline(cin, message1);
-			break;
-		}
+			{
+				//Send to one  3, написать одному
+				// chat_one
+				cout << "Send to one  3, написать одному" << endl;
+				//getline(cin, message1);
+				break;
+			}
 
 		case 4:
-		{
-			//Send to all  4, написать всем
-			// chat_all
-			cout << "Send to all  4, написать всем" << endl;
+			{
+				//Send to all  4, написать всем
+				// chat_all
+				cout << "Send to all  4, написать всем" << endl;
 
-			break;
-		}
+				break;
+			}
 
 		case 7:
-		{
-			break;
-		}
+			{
+				break;
+			}
 		}
 
 	} while (x3 != '7');

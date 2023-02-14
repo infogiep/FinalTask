@@ -9,6 +9,6 @@ using namespace std;
 
 void registry_chat()
 {
-	cout << "Registry" << endl;
+	cout << "Registry 2" << endl;
 	return ;
 }

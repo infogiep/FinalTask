@@ -9,6 +9,6 @@ using namespace std;
 
 void enter_chat()
 {
-	cout << "Enter chat" << endl;
+	cout << "Enter chat 2" << endl;
 	return ;
 }
